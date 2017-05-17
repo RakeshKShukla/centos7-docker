@@ -1,5 +1,5 @@
 FROM centos:centos7
-MAINTAINER shukla.rakeshk@aol.com
+MAINTAINER rakshukla@outlook.com
 RUN yum clean all 
 RUN yum -y install iproute 
 RUN yum -y install lsof 
